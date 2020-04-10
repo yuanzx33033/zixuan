@@ -20,12 +20,14 @@ Education
   * **University of Illinois at Urbana-Champaign**
     * Ph.D. in Computer Science, 2019 -
     * Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) 
-<!-- **Rensselaer Polytechnic Institute** -->
+  * **Rensselaer Polytechnic Institute**
+    * Ph.D. in Computer Science, 2018 - 2019
+    * Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) 
   * **Institute of Computing Technology, Chinese Academy of Sciences**
     * M.S. in Computer Science, 2015 - 2018
     * Advisor: Prof. [Yuanzhuo Wang](http://sourcedb.ict.cas.cn/cn/jssrck/201011/t20101122_3025790.html) 
   * **University of Science and Technology Beijing**
-    * B.E. in Internet of Things, 2011 - 2015
+    * B.E. in Computer Science (Internet of Things), 2011 - 2015
     * B.M. in Information Management and Information Systems (minor), 2012 - 2015
     * Beijing Outstanding Undergraduate Award (Top 2%)
 
@@ -33,7 +35,7 @@ Education
 ------ -->
 
 
-Experience
+<!--Experience
 ------
   * **08/2018 - 08/2019, Rensselaer Polytechnic Institute**
     * Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/index.html)
@@ -42,4 +44,4 @@ Experience
   * **05/2014 - 07/2018, Institute of Computing Technology, Chinese Academy of Sciences**
     * Research Assistant at [CAS Key Lab of Network Data Science and Technology](http://www.bigdatalab.ac.cn/lab/lab/english)
     * Advisor: Prof. [Yuanzhuo Wang](http://sourcedb.ict.cas.cn/cn/jssrck/201011/t20101122_3025790.html)
-    * Focus: Knowledge Base Construction and Completion (Link Prediction)
+    * Focus: Knowledge Base Construction and Completion (Link Prediction)-->
