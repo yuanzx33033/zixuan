@@ -13,11 +13,11 @@ redirect_from:
 ## Papers
 
 1. **Cross-media Structured Common Space for Multimedia Event Extraction** [<a href='docs/M2E2.pdf'>PDF</a>] <br>
-<ins>**Manling Li**</ins>\*, Alireza Zareian\*, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang (\* Equal Contribution) <br>
+<ins>**Manling Li**</ins>\*, Alireza Zareian\*, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang (\*equal contribution) <br>
 The 58th Annual Meeting of the Association for Computational Linguistics 2019 (**ACL'20**) <br>
 
 1. **GAIA: A Fine-grained Multimedia Knowledge Extraction System** [<a href='docs/GAIA_ACL.pdf'>PDF</a>] <br>
-<ins>**Manling Li**</ins>\*, Alireza Zareian\*, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare R. Voss,  Dan Napierski, Marjorie Freedman (\* Equal Contribution) <br>
+<ins>**Manling Li**</ins>\*, Alireza Zareian\*, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare R. Voss,  Dan Napierski, Marjorie Freedman (\*equal contribution) <br>
 The 58th Annual Meeting of the Association for Computational Linguistics 2019 (**ACL'20**) <br>
 
 1. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual KnowledgeExtraction and Hypothesis Generation System** [<a href='docs/GAIA2019.pdf'>PDF</a>] <br>
