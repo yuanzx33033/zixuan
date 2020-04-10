@@ -70,7 +70,8 @@ In Proceedings of IEEE/WIC/ACM International Conference on Web Intelligence (**W
 7. **OpenKN at TAC KBP 2016** [<a href='docs/TAC2016_ICTCAS_OKN.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Xinlei Chen, Yantao Jia, Yuanzhuo Wang, etc. <br> 
 Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2016 <br>
-(Cold Start Entity Discovery and Linking: ranked **2nd** out of 7 teams, where in Entity Discovery, ranked **1st** out of 7 teams, and **4** measures ranked **1st** among 6 measures; Cold Start Slot Filling: ranked 9th out of 19 teams) <br>
+<!-- (Cold Start Entity Discovery and Linking: ranked **2nd** out of 7 teams, where in Entity Discovery, ranked **1st** out of 7 teams, and **4** measures ranked **1st** among 6 measures; Cold Start Slot Filling: ranked 9th out of 19 teams)  <br>
+-->
 
 8. **Hierarchy-Based Link Prediction in Knowledge Graphs** [<a href='docs/hTransA.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Yantao Jia, Yuanzhuo Wang, Jingyuan Li, Xueqi Cheng. <br> 
