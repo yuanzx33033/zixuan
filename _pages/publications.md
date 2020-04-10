@@ -12,8 +12,16 @@ redirect_from:
 
 ## Papers
 
+1. **Cross-media Structured Common Space for Multimedia Event Extraction** [<a href='docs/M2E2.pdf'>PDF</a>] <br>
+<ins>**Manling Li**</ins>\*, Alireza Zareian\*, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang (\* Equal Contribution) <br>
+The 58th Annual Meeting of the Association for Computational Linguistics 2019 (**ACL'20**) <br>
+
+1. **GAIA: A Fine-grained Multimedia Knowledge Extraction System** [<a href='docs/GAIA_ACL.pdf'>PDF</a>] <br>
+<ins>**Manling Li**</ins>\*, Alireza Zareian\*, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare R. Voss,  Dan Napierski, Marjorie Freedman (\* Equal Contribution) <br>
+The 58th Annual Meeting of the Association for Computational Linguistics 2019 (**ACL'20**) <br>
+
 1. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual KnowledgeExtraction and Hypothesis Generation System** [<a href='docs/GAIA2019.pdf'>PDF</a>] <br>
-<ins>**Manling Li**</ins>, Ying Lin1, Ananya Subburathinam, Spencer Whitehead, Xiaoman Pan, Di Lu, Qingyun Wang, Tongtao Zhang, Lifu Huang, Heng Ji. etc <br>
+<ins>**Manling Li**</ins>, Ying Lin, Ananya Subburathinam, Spencer Whitehead, Xiaoman Pan, Di Lu, Qingyun Wang, Tongtao Zhang, Lifu Huang, Heng Ji. etc <br>
 Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2019 <br>
 
 1. **A Baseline Fine-Grained Entity Extraction System for TAC-KBP2019**  [<a href='docs/UIUC_TAC_KBP2019_Fine_Grained_Entity_Extraction_System.pdf'>PDF</a>]
