@@ -18,7 +18,7 @@ The 58th Annual Meeting of the Association for Computational Linguistics 2019 (*
 
 1. **GAIA: A Fine-grained Multimedia Knowledge Extraction System** [<a href='docs/GAIA_ACL.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>\*, Alireza Zareian\*, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare R. Voss,  Dan Napierski, Marjorie Freedman (\*equal contribution) <br>
-The 58th Annual Meeting of the Association for Computational Linguistics 2019 (**ACL'20**) <br>
+The 58th Annual Meeting of the Association for Computational Linguistics 2019 (**ACL'20**) (demo track) <br>
 
 1. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual KnowledgeExtraction and Hypothesis Generation System** [<a href='docs/GAIA2019.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Ying Lin, Ananya Subburathinam, Spencer Whitehead, Xiaoman Pan, Di Lu, Qingyun Wang, Tongtao Zhang, Lifu Huang, Heng Ji. etc <br>
@@ -38,7 +38,7 @@ The 57th Annual Meeting of the Association for Computational Linguistics (**ACL'
 1. **Multilingual Entity, Relation, Event and Human Value Extraction**  [<a href='docs/HTETD.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Ying Lin, Joe Hoover, Spencer Whitehead, Clare Voss, Morteza Dehghani, Heng Ji <br>
 The 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics
- (**NAACL'19**) (demo track), pp.110–115  <br>
+ (**NAACL'19**), pp.110–115 (demo track) <br>
 
 2. **GAIA - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System**  [<a href='docs/GAIA.pdf'>PDF</a>] <br>
 Tongtao Zhang, Ananya Subburathinam, Ge Shi, Lifu Huang, Di Lu, Xiaoman Pan, <ins>**Manling Li**</ins>, Boliang Zhang, Qingyun Wang, Spencer Whitehead, Heng Ji, etc. <br>
@@ -55,17 +55,17 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 
 4. **Hierarchical Types Constrained Topic Entity Detection for Knowledge Base Question Answering**  [<a href='docs/HTETD.pdf'>PDF</a>] <br>
 Yunqi Qiu, <ins>**Manling Li**</ins>, Yuanzhuo Wang, Yantao Jia, Xiaolong Jin, Xueqi Cheng <br>
-In Companion Proceedings of The Web Conference 2018 (**WWW 2018**), pp.35-36  
+In Companion Proceedings of The Web Conference 2018 (**WWW 2018**), pp.35-36  (abstract track) <br>
 
 
 5. **Path-Based Attention Neural Model for Fine-Grained Entity Typing**  [<a href='docs/PAN.pdf'>PDF</a>] <br>
 Denghui Zhang, <ins>**Manling Li**</ins>, Pengshan Cai, Yantao Jia,  Yuanzhuo Wang, Xueqi Cheng <br>
-In Proceedings of the 32nd AAAI Conference on Artificial Intelligence (**AAAI 2018**), pp.8179-8180  <br>
+In Proceedings of the 32nd AAAI Conference on Artificial Intelligence (**AAAI 2018**), pp.8179-8180 (abstract track) <br>
 
 
 6. **Efficient Parallel Translating Embedding For Knowledge Graphs**  [<a href='docs/ParTransX.pdf'>PDF</a>] <br>
 Denghui Zhang, <ins>**Manling Li**</ins>, Yantao Jia, Yuanzhuo Wang, Xueqi Cheng <br>
-In Proceedings of IEEE/WIC/ACM International Conference on Web Intelligence (**WI 2017**), pp.460-468<br>
+In Proceedings of IEEE/WIC/ACM International Conference on Web Intelligence (**WI 2017**), pp.460-468 (abstract track)<br>
 
 7. **OpenKN at TAC KBP 2016** [<a href='docs/TAC2016_ICTCAS_OKN.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Xinlei Chen, Yantao Jia, Yuanzhuo Wang, etc. <br> 
@@ -75,12 +75,12 @@ Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2016 <
 
 8. **Hierarchy-Based Link Prediction in Knowledge Graphs** [<a href='docs/hTransA.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Yantao Jia, Yuanzhuo Wang, Jingyuan Li, Xueqi Cheng. <br> 
-In Proceedings of the 25th International Conference Companion on World Wide Web (**WWW 2016**), pp.77-78 <br>
+In Proceedings of the 25th International Conference Companion on World Wide Web (**WWW 2016**), pp.77-78 (abstract track) <br>
 
 
 9. **Predicting Links and Their Building Time: A Path-Based Method** [<a href='docs/TDLP.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Yantao Jia, Yuanzhuo Wang, Zeya Zhao, Xueqi Cheng. <br>
-In Proceedings of 30th AAAI Conference on Artificial Intelligence (**AAAI 2016**), pp.4228-4229 <br>
+In Proceedings of 30th AAAI Conference on Artificial Intelligence (**AAAI 2016**), pp.4228-4229 (abstract track) <br>
 
 
 
