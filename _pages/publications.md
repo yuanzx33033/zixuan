@@ -12,13 +12,17 @@ redirect_from:
 
 ## Papers
 
+### 2020
+
 1. **Cross-media Structured Common Space for Multimedia Event Extraction** [<a href='docs/M2E2.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>\*, Alireza Zareian\*, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang (\*equal contribution) <br>
-The 58th Annual Meeting of the Association for Computational Linguistics 2019 (**ACL'20**) <br>
+The 58th Annual Meeting of the Association for Computational Linguistics 2020 (**ACL'20**) <br>
 
 1. **GAIA: A Fine-grained Multimedia Knowledge Extraction System** [<a href='docs/GAIA_ACL.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>\*, Alireza Zareian\*, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare R. Voss,  Dan Napierski, Marjorie Freedman (\*equal contribution) <br>
-The 58th Annual Meeting of the Association for Computational Linguistics 2019 (**ACL'20**) (demo track) <br>
+The 58th Annual Meeting of the Association for Computational Linguistics 2020 (**ACL'20**) (demo track) <br>
+
+### 2019
 
 1. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual KnowledgeExtraction and Hypothesis Generation System** [<a href='docs/GAIA2019.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Ying Lin, Ananya Subburathinam, Spencer Whitehead, Xiaoman Pan, Di Lu, Qingyun Wang, Tongtao Zhang, Lifu Huang, Heng Ji. etc <br>
@@ -40,13 +44,15 @@ The 57th Annual Meeting of the Association for Computational Linguistics (**ACL'
 The 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics
  (**NAACL'19**), pp.110–115 (demo track) <br>
 
-2. **GAIA - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System**  [<a href='docs/GAIA.pdf'>PDF</a>] <br>
-Tongtao Zhang, Ananya Subburathinam, Ge Shi, Lifu Huang, Di Lu, Xiaoman Pan, <ins>**Manling Li**</ins>, Boliang Zhang, Qingyun Wang, Spencer Whitehead, Heng Ji, etc. <br>
-Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2018  <br>
-
 2. **The Unobtrusive Group Interaction (UGI) Corpus** [<a href='docs/UGI.pdf'>PDF</a>]  <br>
 Indrani Bhattacharya, Michael Foley, Ni Zhang, Tongtao Zhang, Christine Ku, Cameron Mine, <ins>**Manling Li**</ins>, Heng Ji, etc. <br>
 ACM Multimedia Systems Conference 2019 (**ACM MMSys'19**) (dataset track), pp.249-254  <br>
+
+### 2018 and before
+
+2. **GAIA - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System**  [<a href='docs/GAIA.pdf'>PDF</a>] <br>
+Tongtao Zhang, Ananya Subburathinam, Ge Shi, Lifu Huang, Di Lu, Xiaoman Pan, <ins>**Manling Li**</ins>, Boliang Zhang, Qingyun Wang, Spencer Whitehead, Heng Ji, etc. <br>
+Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2018  <br>
 
 3. **Link Prediction in Knowledge Graphs: A Hierarchy-Constrained Approach**  [<a href='docs/TBD-2017-02-0077.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Yuanzhuo Wang, Denghui Zhang, Yantao Jia, Xueqi Cheng <br>
