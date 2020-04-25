@@ -12,7 +12,7 @@ Greetings! I am Manling Li.
 
 I am a Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), working with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). I am a member of the [Blender lab](http://blender.cs.illinois.edu/index.html). 
 <!-- Prior to UIUC, I got my master's degree from [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/) in 2018, and received my bachelor's degree from [University of Science and Technology Beijing](http://www.ustb.edu.cn/index.asp) with Beijing Outstanding Undergraduate Award in 2015. -->
-My research interests lie in the general area of Natural Language Processing, with a special focus on multimedia event extraction and event-aware generation.
+My research interests lie in the general area of Natural Language Processing, with a special focus on multimedia knowledge extraction and knowledge-aware generation.
 
 Education
 ------
