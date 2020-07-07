@@ -24,15 +24,6 @@ The 58th Annual Meeting of the Association for Computational Linguistics 2020 (*
 
 ### 2019
 
-1. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual KnowledgeExtraction and Hypothesis Generation System** [<a href='docs/GAIA2019.pdf'>PDF</a>] <br>
-<ins>**Manling Li**</ins>, Ying Lin, Ananya Subburathinam, Spencer Whitehead, Xiaoman Pan, Di Lu, Qingyun Wang, Tongtao Zhang, Lifu Huang, Heng Ji. etc <br>
-Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2019 <br>
-
-1. **A Baseline Fine-Grained Entity Extraction System for TAC-KBP2019**  [<a href='docs/UIUC_TAC_KBP2019_Fine_Grained_Entity_Extraction_System.pdf'>PDF</a>]
-<br>
-Ying Lin, Xiaoman Pan, <ins>**Manling Li**</ins>, Heng Ji<br>
-Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2019 <br>
-
 1. **Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization**  
 [<a href='docs/multimediasummarization2019.pdf'>PDF</a>]
 <br>
@@ -47,6 +38,16 @@ The 2019 Annual Conference of the North American Chapter of the Association for 
 2. **The Unobtrusive Group Interaction (UGI) Corpus** [<a href='docs/UGI.pdf'>PDF</a>]  <br>
 Indrani Bhattacharya, Michael Foley, Ni Zhang, Tongtao Zhang, Christine Ku, Cameron Mine, <ins>**Manling Li**</ins>, Heng Ji, etc. <br>
 ACM Multimedia Systems Conference 2019 (**ACM MMSys'19**) (dataset track), pp.249-254  <br>
+
+1. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual KnowledgeExtraction and Hypothesis Generation System** [<a href='docs/GAIA2019.pdf'>PDF</a>] <br>
+<ins>**Manling Li**</ins>, Ying Lin, Ananya Subburathinam, Spencer Whitehead, Xiaoman Pan, Di Lu, Qingyun Wang, Tongtao Zhang, Lifu Huang, Heng Ji. etc <br>
+Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2019 <br>
+
+1. **A Baseline Fine-Grained Entity Extraction System for TAC-KBP2019**  [<a href='docs/UIUC_TAC_KBP2019_Fine_Grained_Entity_Extraction_System.pdf'>PDF</a>]
+<br>
+Ying Lin, Xiaoman Pan, <ins>**Manling Li**</ins>, Heng Ji<br>
+Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2019 <br>
+
 
 ### 2018 and before
 
