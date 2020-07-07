@@ -50,9 +50,9 @@ ACM Multimedia Systems Conference 2019 (**ACM MMSys'19**) (dataset track), pp.24
 
 ### 2018 and before
 
-2. **GAIA - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System**  [<a href='docs/GAIA.pdf'>PDF</a>] <br>
+<!-- 2. **GAIA - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System**  [<a href='docs/GAIA.pdf'>PDF</a>] <br>
 Tongtao Zhang, Ananya Subburathinam, Ge Shi, Lifu Huang, Di Lu, Xiaoman Pan, <ins>**Manling Li**</ins>, Boliang Zhang, Qingyun Wang, Spencer Whitehead, Heng Ji, etc. <br>
-Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2018  <br>
+Text Analysis Conference Knowledge Base Population (**TAC-KBP**) Workshop 2018  <br>  --> 
 
 3. **Link Prediction in Knowledge Graphs: A Hierarchy-Constrained Approach**  [<a href='docs/TBD-2017-02-0077.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Yuanzhuo Wang, Denghui Zhang, Yantao Jia, Xueqi Cheng <br>
