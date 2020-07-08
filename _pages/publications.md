@@ -30,7 +30,7 @@ The 58th Annual Meeting of the Association for Computational Linguistics 2020 (*
 <ins>**Manling Li**</ins>, Lingyu Zhang, Heng Ji, Rich Radke <br>
 The 57th Annual Meeting of the Association for Computational Linguistics (**ACL'19**), pp.2190–2196 <br>
 
-1. **Multilingual Entity, Relation, Event and Human Value Extraction**  [<a href='docs/HTETD.pdf'>PDF</a>] <br>
+1. **Multilingual Entity, Relation, Event and Human Value Extraction**  [<a href='https://blender.cs.illinois.edu/paper/naacldemo2019.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>, Ying Lin, Joe Hoover, Spencer Whitehead, Clare Voss, Morteza Dehghani, Heng Ji <br>
 The 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics
  (**NAACL'19**), pp.110–115 (demo track) <br>
