@@ -29,7 +29,7 @@ Education
   * **University of Science and Technology Beijing**
     * B.E. in Computer Science (Internet of Things), 2011 - 2015
     * B.M. in Information Management and Information Systems (minor), 2012 - 2015
-    * Beijing Outstanding Undergraduate Award (Top 2%)
+    <!-- * Beijing Outstanding Undergraduate Award (Top 2%) -->
 
 <!-- Publications
 ------ -->

@@ -12,15 +12,22 @@ redirect_from:
 
 ## Papers (* equal contribution)
 
+### Preprint
+
+1. **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation** [<a href='https://blender.cs.illinois.edu/paper/COVIDKG.pdf'>PDF</a>] <br>
+Qingyun Wang, <ins>**Manling Li**</ins>, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, David Liem, Ahmed Elsayed, Martha Palmer, Jasmine Rah, Clare Voss, Cynthia Schneider, Boyan Onyshkevych <br>
+arXiv:2007.00576 <br>
+
 ### 2020
+
+1. **GAIA: A Fine-grained Multimedia Knowledge Extraction System** [<a href='https://blender.cs.illinois.edu/paper/aidaacl2020demo.pdf'>PDF</a>] <br>
+<ins>**Manling Li**</ins>\*, Alireza Zareian\*, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare R. Voss,  Dan Napierski, Marjorie Freedman <br>
+**ACL'20**: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations. pp. 77–86 (<span style="color:#8C0000">**Best Demo Paper Award at ACL2020**</span>) <br>
+
 
 1. **Cross-media Structured Common Space for Multimedia Event Extraction** [<a href='https://blender.cs.illinois.edu/paper/multimediaspace2020.pdf'>PDF</a>] <br>
 <ins>**Manling Li**</ins>\*, Alireza Zareian\*, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang <br>
 **ACL'20**: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp.2557–2568 <br>
-
-1. **GAIA: A Fine-grained Multimedia Knowledge Extraction System** [<a href='https://blender.cs.illinois.edu/paper/aidaacl2020demo.pdf'>PDF</a>] <br>
-<ins>**Manling Li**</ins>\*, Alireza Zareian\*, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare R. Voss,  Dan Napierski, Marjorie Freedman <br>
-**ACL'20**: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations. pp. 77–86 (**Best Demo Paper Award**) <br>
 
 ### 2019
 
