@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Talks"
+title: "Invited Talks"
 author_profile: true
 redirect_from: 
   - /talks.html
