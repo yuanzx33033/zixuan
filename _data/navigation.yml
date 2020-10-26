@@ -5,12 +5,11 @@ main:
 
 #  - title: "Projects"
 #    url: /projects/
+  - title: "Talks"
+    url: /talks/
 
   - title: "Awards"
     url: /awards/
-
-  - title: "Talks"
-    url: /talks/
 
   - title: "CV"
     url: /files/cv_limanling.pdf
