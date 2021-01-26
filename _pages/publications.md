@@ -18,10 +18,10 @@ redirect_from:
  Muhao Chen, Hongming Zhang, Qiang Ning, <ins>**Manling Li**</ins>, Heng Ji and Dan Roth<br>
 **AAAI'21**: Proceedings of The Thirty-Fifth AAAI Conference on Artificial Intelligence Tutorial.  <br>
 
-1. **RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System** [<a href='https://blender.cs.illinois.edu/paper/eventtutorial2021.pdf'>PDF</a>] [<a href='https://blender.cs.illinois.edu/paper/aaai_tutorial_2021_event_centric_nlu.pdf'>Slides</a>] <br>
+1. **RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System** [<a href=''>PDF</a>] [<a href=''>Demo</a>] <br>
  Haoyang Wen, Ying Lin, Tuan M. Lai, Xiaoman Pan, Sha Li, Xudong Lin, Ben Zhou, <ins>**Manling Li**</ins>, Haoyu Wang, Hongming Zhang, Xiaodong Yu, Alexander Dong, Zhenhailong Wang, Yi R. Fung, Piyush Mishra, Qing Lyu, Dídac Surís, Brian Chen, Susan W. Brown, Martha Palmer, Chris Callison-Burch, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang and Heng Ji<br>
 
-**2020** <br>
+**2020**
 
 1. **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling** [<a href='https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/software/pathlm'>Code/Data</a>] [<a href='docs/paper237-schema-presentation.pdf'>Slides</a>] <br>
  <ins>**Manling Li**</ins>, Qi Zeng, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers and Clare Voss <br>
