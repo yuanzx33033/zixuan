@@ -12,7 +12,7 @@ redirect_from:
 
 ## Papers (* equal contribution)
 
-### 2021
+2021
 
 1. **Event-centric Natural Language Processing** [<a href='https://blender.cs.illinois.edu/paper/eventtutorial2021.pdf'>PDF</a>] [<a href='https://blender.cs.illinois.edu/paper/aaai_tutorial_2021_event_centric_nlu.pdf'>Slides</a>] <br>
  Muhao Chen, Hongming Zhang, Qiang Ning, <ins>**Manling Li**</ins>, Heng Ji and Dan Roth<br>
