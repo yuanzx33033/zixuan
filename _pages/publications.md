@@ -41,7 +41,7 @@ redirect_from:
 Qingyun Wang, <ins>**Manling Li**</ins>, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, David Liem, Ahmed Elsayed, Martha Palmer, Jasmine Rah, Clare Voss, Cynthia Schneider, Boyan Onyshkevych <br>
 arXiv:2007.00576 <br>
 
-### 2019
+**2019** <br>
 
 1. **Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization**  
 [<a href='docs/multimediasummarization2019.pdf'>PDF</a>] [<a href='https://github.com/limanling/MeetingSum'>Code</a>]
@@ -67,7 +67,7 @@ Ying Lin, Xiaoman Pan, <ins>**Manling Li**</ins>, Heng Ji<br>
 **TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2019 <br>
 
 
-### 2018 and before
+**2018 and Before** <br>
 
 <!-- 2. **GAIA - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System**  [<a href='docs/GAIA.pdf'>PDF</a>] <br>
 Tongtao Zhang, Ananya Subburathinam, Ge Shi, Lifu Huang, Di Lu, Xiaoman Pan, <ins>**Manling Li**</ins>, Boliang Zhang, Qingyun Wang, Spencer Whitehead, Heng Ji, etc. <br>
