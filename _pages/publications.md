@@ -13,6 +13,7 @@ redirect_from:
 ## Papers (* equal contribution)
 
 ### 2021
+<br>
 
 23\. **Event-centric Natural Language Processing** [<a href='https://blender.cs.illinois.edu/paper/eventtutorial2021.pdf'>PDF</a>] [<a href='https://blender.cs.illinois.edu/paper/aaai_tutorial_2021_event_centric_nlu.pdf'>Slides</a>] <br>
  Muhao Chen, Hongming Zhang, Qiang Ning, <ins>**Manling Li**</ins>, Heng Ji and Dan Roth<br>
@@ -21,7 +22,8 @@ redirect_from:
 22\. **RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System** [<a href=''>PDF</a>] [<a href=''>Demo</a>] <br>
  Haoyang Wen, Ying Lin, Tuan M. Lai, Xiaoman Pan, Sha Li, Xudong Lin, Ben Zhou, <ins>**Manling Li**</ins>, Haoyu Wang, Hongming Zhang, Xiaodong Yu, Alexander Dong, Zhenhailong Wang, Yi R. Fung, Piyush Mishra, Qing Lyu, Dídac Surís, Brian Chen, Susan W. Brown, Martha Palmer, Chris Callison-Burch, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang and Heng Ji<br>
 
-### 2020
+### 2020 
+<br>
 
 21\. **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling** [<a href='https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/software/pathlm'>Code/Data</a>] [<a href='docs/paper237-schema-presentation.pdf'>Slides</a>] <br>
  <ins>**Manling Li**</ins>, Qi Zeng, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers and Clare Voss <br>
@@ -40,6 +42,7 @@ Qingyun Wang, <ins>**Manling Li**</ins>, Xuan Wang, Nikolaus Parulian, Guangxing
 arXiv:2007.00576 <br>
 
 ### 2019 
+<br>
 
 17\. **Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization**  
 [<a href='docs/multimediasummarization2019.pdf'>PDF</a>] [<a href='https://github.com/limanling/MeetingSum'>Code</a>]
@@ -66,6 +69,7 @@ Ying Lin, Xiaoman Pan, <ins>**Manling Li**</ins>, Heng Ji<br>
 
 
 ### 2018 and Before
+<br>
 <!-- 2. **GAIA - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System**  [<a href='docs/GAIA.pdf'>PDF</a>] <br>
 Tongtao Zhang, Ananya Subburathinam, Ge Shi, Lifu Huang, Di Lu, Xiaoman Pan, <ins>**Manling Li**</ins>, Boliang Zhang, Qingyun Wang, Spencer Whitehead, Heng Ji, etc. <br>
 **TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2018  <br>  --> 
@@ -107,6 +111,7 @@ Denghui Zhang, <ins>**Manling Li**</ins>, Yantao Jia, Yuanzhuo Wang, Xueqi Cheng
 
 
 ## Patents
+<br>
 
 5\. **A Tag Inference System Based on Knowledge Graph Embedding** [<a href='docs/CN107391577A.pdf'>PDF</a>] <br>
 Xueqi Cheng, Yantao Jia, Pengshan Cai, <ins>**Manling Li**</ins>, etc. (**2nd** student author).<br>
