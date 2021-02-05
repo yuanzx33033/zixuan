@@ -45,3 +45,11 @@ Education
     * Research Assistant at [CAS Key Lab of Network Data Science and Technology](http://www.bigdatalab.ac.cn/lab/lab/english)
     * Advisor: Prof. [Yuanzhuo Wang](http://sourcedb.ict.cas.cn/cn/jssrck/201011/t20101122_3025790.html)
     * Focus: Knowledge Base Construction and Completion (Link Prediction)-->
+
+
+Academic Service
+------
+
+Journal Reviewer: IEEE MultiMedia; Neurocomputing.
+Senior PC: IJCAI'21.
+PC: ACL'21; AAAI'21; WWW'21; EACL'21; COLING'20; AACL'20; CCL'20.
