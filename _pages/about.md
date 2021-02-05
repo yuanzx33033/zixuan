@@ -50,6 +50,8 @@ Education
 Academic Service
 ------
 
-Journal Reviewer: IEEE MultiMedia; Neurocomputing.
-Senior PC: IJCAI'21.
-PC: ACL'21; AAAI'21; WWW'21; EACL'21; COLING'20; AACL'20; CCL'20.
+**Journal Reviewer**: IEEE MultiMedia; Neurocomputing.
+
+**Senior PC**: IJCAI'21.
+
+**PC**: ACL'21; AAAI'21; WWW'21; EACL'21; COLING'20; AACL'20; CCL'20.
