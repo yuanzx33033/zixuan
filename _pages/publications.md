@@ -12,7 +12,7 @@ redirect_from:
 
 ## Papers (* equal contribution)
 
-**2021** <br>
+ **2021** <br>
 
 1. **Event-centric Natural Language Processing** [<a href='https://blender.cs.illinois.edu/paper/eventtutorial2021.pdf'>PDF</a>] [<a href='https://blender.cs.illinois.edu/paper/aaai_tutorial_2021_event_centric_nlu.pdf'>Slides</a>] <br>
  Muhao Chen, Hongming Zhang, Qiang Ning, <ins>**Manling Li**</ins>, Heng Ji and Dan Roth<br>
@@ -41,7 +41,7 @@ redirect_from:
 Qingyun Wang, <ins>**Manling Li**</ins>, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, David Liem, Ahmed Elsayed, Martha Palmer, Jasmine Rah, Clare Voss, Cynthia Schneider, Boyan Onyshkevych <br>
 arXiv:2007.00576 <br>
 
-**2019** <br>
+ **2019** 
 
 1. **Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization**  
 [<a href='docs/multimediasummarization2019.pdf'>PDF</a>] [<a href='https://github.com/limanling/MeetingSum'>Code</a>]
