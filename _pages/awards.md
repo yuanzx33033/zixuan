@@ -9,6 +9,7 @@ redirect_from:
 ### Awards
 
 - ACL2020 Best Demo Paper Award <br>
+- Mavis Future Faculty Fellow <br>
 
 ### Scholarships and Fellowships
 

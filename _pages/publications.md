@@ -15,31 +15,54 @@ redirect_from:
 ### 2021
 <br>
 
+28\. **Future is not One-dimensional: Complex Event Schema Induction via Graph Modeling** [<a href='https://blender.cs.illinois.edu/paper/schema2021a.pdf'>PDF</a>] [<a href='https://github.com/limanling/temporal-graph-schema'>Data</a>] <br>
+<ins>**Manling Li**</ins>, Sha Li, Zhenhailong Wang, Lifu Huang, Kyunghyun Cho, Heng Ji, Jiawei Han and Clare Voss<br>
+arxiv2104.06344  <br>
+
+27\. **Event-centric Natural Language Processing** [<a href='https://blender.cs.illinois.edu/paper/eventtutorial2021.pdf'>PDF</a>] [<a href='https://blender.cs.illinois.edu/paper/aaai_tutorial_2021_event_centric_nlu.pdf'>Slides</a>] <br>
+ Muhao Chen, Hongming Zhang, Qiang Ning, <ins>**Manling Li**</ins>, Heng Ji, Kathleen McKeown and Dan Roth<br>
+**ACL'21**: Tutorial.  <br>
+
+26\. **GENE: Global Event Network Embedding** [<a href='https://blender.cs.illinois.edu/paper/gene2021.pdf'>PDF</a>]<br>
+Qi Zeng, <ins>**Manling Li**</ins>, Tuan Lai, Heng Ji, Mohit Bansal and Hanghang Tong <br>
+**NAACL'21**: TextGraphs 2021 Workshop <br>
+
+25\. **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation** [<a href='https://blender.cs.illinois.edu/paper/COVIDKG.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/covid19/'>Code/Data</a>]<br>
+Qingyun Wang, <ins>**Manling Li**</ins>, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, David Liem, Ahmed Elsayed, Martha Palmer, Jasmine Rah, Clare Voss, Cynthia Schneider, Boyan Onyshkevych <br>
+**NAACL'21**: System Demonstrations <br>
+
+24\. **RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System** [<a href='https://blender.cs.illinois.edu/paper/resin-phase1.pdf'>PDF</a>] [<a href='https://github.com/RESIN-KAIROS/RESIN-pipeline-public'>Code</a>] <br>
+ Haoyang Wen, Ying Lin, Tuan M. Lai, Xiaoman Pan, Sha Li, Xudong Lin, Ben Zhou, <ins>**Manling Li**</ins>, Haoyu Wang, Hongming Zhang, Xiaodong Yu, Alexander Dong, Zhenhailong Wang, Yi R. Fung, Piyush Mishra, Qing Lyu, Dídac Surís, Brian Chen, Susan W. Brown, Martha Palmer, Chris Callison-Burch, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang and Heng Ji<br>
+**NAACL'21**: System Demonstrations <br>
+
 23\. **Event-centric Natural Language Processing** [<a href='https://blender.cs.illinois.edu/paper/eventtutorial2021.pdf'>PDF</a>] [<a href='https://blender.cs.illinois.edu/paper/aaai_tutorial_2021_event_centric_nlu.pdf'>Slides</a>] <br>
  Muhao Chen, Hongming Zhang, Qiang Ning, <ins>**Manling Li**</ins>, Heng Ji and Dan Roth<br>
-**AAAI'21**: Proceedings of The Thirty-Fifth AAAI Conference on Artificial Intelligence Tutorial.  <br>
+**AAAI'21**: Tutorial.  <br>
 
-22\. **RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System** [<a href=''>PDF</a>] [<a href=''>Demo</a>] <br>
- Haoyang Wen, Ying Lin, Tuan M. Lai, Xiaoman Pan, Sha Li, Xudong Lin, Ben Zhou, <ins>**Manling Li**</ins>, Haoyu Wang, Hongming Zhang, Xiaodong Yu, Alexander Dong, Zhenhailong Wang, Yi R. Fung, Piyush Mishra, Qing Lyu, Dídac Surís, Brian Chen, Susan W. Brown, Martha Palmer, Chris Callison-Burch, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang and Heng Ji<br>
 
 ### 2020 
 <br>
 
-21\. **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling** [<a href='https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/software/pathlm'>Code/Data</a>] [<a href='docs/paper237-schema-presentation.pdf'>Slides</a>] <br>
+22\. **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling** [<a href='https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/software/pathlm'>Code/Data</a>] [<a href='docs/paper237-schema-presentation.pdf'>Slides</a>] <br>
  <ins>**Manling Li**</ins>, Qi Zeng, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers and Clare Voss <br>
 **EMNLP'20**: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.  <br>
 
-20\. **GAIA: A Fine-grained Multimedia Knowledge Extraction System** [<a href='https://blender.cs.illinois.edu/paper/aidaacl2020demo.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/software/gaia-ie'>Code</a>] [<a href='http://blender.cs.illinois.edu/software/gaia-ie/gaia.mp4'>Video</a>]<br>
+21\. **GAIA: A Fine-grained Multimedia Knowledge Extraction System** [<a href='https://blender.cs.illinois.edu/paper/aidaacl2020demo.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/software/gaia-ie'>Code</a>] [<a href='http://blender.cs.illinois.edu/software/gaia-ie/gaia.mp4'>Video</a>]<br>
 <ins>**Manling Li**</ins>\*, Alireza Zareian\*, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare R. Voss,  Dan Napierski, Marjorie Freedman <br>
 **ACL'20**: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations. pp. 77–86 (<span style="color:#8C0000">**Best Demo Paper Award at ACL2020**</span>) <br>
 
-19\. **Cross-media Structured Common Space for Multimedia Event Extraction** [<a href='https://blender.cs.illinois.edu/paper/multimediaspace2020.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/software/m2e2'>Code</a>] [<a href='docs/ACL20-m2e2_presentation.pdf'>Slides</a>]<br>
+20\. **Cross-media Structured Common Space for Multimedia Event Extraction** [<a href='https://blender.cs.illinois.edu/paper/multimediaspace2020.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/software/m2e2'>Code</a>] [<a href='docs/ACL20-m2e2_presentation.pdf'>Slides</a>]<br>
 <ins>**Manling Li**</ins>\*, Alireza Zareian\*, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang <br>
 **ACL'20**: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp.2557–2568 <br>
 
-18\. **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation** [<a href='https://blender.cs.illinois.edu/paper/COVIDKG.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/covid19/'>Code/Data</a>]<br>
-Qingyun Wang, <ins>**Manling Li**</ins>, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, David Liem, Ahmed Elsayed, Martha Palmer, Jasmine Rah, Clare Voss, Cynthia Schneider, Boyan Onyshkevych <br>
-arXiv:2007.00576 <br>
+19\. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual KnowledgeExtraction and Hypothesis Generation System** [<a href='docs/GAIA2019.pdf'>PDF</a>] [<a href='https://tac.nist.gov/2020/SM-KBP/index.html'>Project</a>] <br>
+<ins>**Manling Li**</ins>, Ying Lin, Ananya Subburathinam, Spencer Whitehead, Xiaoman Pan, Di Lu, Qingyun Wang, Tongtao Zhang, Lifu Huang, Heng Ji. etc <br>
+**TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2019 (<span>**Rank 1st, with more than 10% higher than the second team.**</span>)<br>
+
+18\. **A Baseline Fine-Grained Entity Extraction System for TAC-KBP2019**  [<a href='docs/UIUC_TAC_KBP2019_Fine_Grained_Entity_Extraction_System.pdf'>PDF</a>] [<a href='https://tac.nist.gov/2019/workshop/tac2019.general.html'>Project</a>] 
+<br>
+Ying Lin, Xiaoman Pan, <ins>**Manling Li**</ins>, Heng Ji<br>
+**TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2019 <br>
 
 ### 2019 
 <br>

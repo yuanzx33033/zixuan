@@ -35,16 +35,16 @@ Education
 ------ -->
 
 
-<!--Experience
+Experience
 ------
-  * **08/2018 - 08/2019, Rensselaer Polytechnic Institute**
-    * Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/index.html)
-    * Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
-    * Focus: Multimedia Information Extraction and Generation
-  * **05/2014 - 07/2018, Institute of Computing Technology, Chinese Academy of Sciences**
+  * **07/2020 - 08/2020, IBM Research AI in Yorktown Heights**
+    * Research Assistant at the Foundations of AI Reasoning group
+    * Mentor: [Tengfei Ma](https://sites.google.com/site/matf0123/home), [Mo Yu](https://scholar.google.com/citations?user=vC8DssQAAAAJ&hl=en)
+    * Focus: Graph Compession via Optimal Transport
+<!--   * **05/2014 - 07/2018, Institute of Computing Technology, Chinese Academy of Sciences**
     * Research Assistant at [CAS Key Lab of Network Data Science and Technology](http://www.bigdatalab.ac.cn/lab/lab/english)
     * Advisor: Prof. [Yuanzhuo Wang](http://sourcedb.ict.cas.cn/cn/jssrck/201011/t20101122_3025790.html)
-    * Focus: Knowledge Base Construction and Completion (Link Prediction)-->
+    * Focus: Knowledge Base Construction and Completion (Link Prediction) -->
 
 
 Academic Service
