@@ -38,7 +38,7 @@ Education
 Experience
 ------
   * **07/2020 - 08/2020, IBM Research AI in Yorktown Heights**
-    * Research Assistant at the Foundations of AI Reasoning group
+    * Research Intern at the Foundations of AI Reasoning group
     * Mentor: [Tengfei Ma](https://sites.google.com/site/matf0123/home), [Mo Yu](https://scholar.google.com/citations?user=vC8DssQAAAAJ&hl=en)
     * Focus: Graph Compession via Optimal Transport
 
