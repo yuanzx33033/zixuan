@@ -41,10 +41,6 @@ Experience
     * Research Assistant at the Foundations of AI Reasoning group
     * Mentor: [Tengfei Ma](https://sites.google.com/site/matf0123/home), [Mo Yu](https://scholar.google.com/citations?user=vC8DssQAAAAJ&hl=en)
     * Focus: Graph Compession via Optimal Transport
-<!--   * **05/2014 - 07/2018, Institute of Computing Technology, Chinese Academy of Sciences**
-    * Research Assistant at [CAS Key Lab of Network Data Science and Technology](http://www.bigdatalab.ac.cn/lab/lab/english)
-    * Advisor: Prof. [Yuanzhuo Wang](http://sourcedb.ict.cas.cn/cn/jssrck/201011/t20101122_3025790.html)
-    * Focus: Knowledge Base Construction and Completion (Link Prediction) -->
 
 
 Academic Service
