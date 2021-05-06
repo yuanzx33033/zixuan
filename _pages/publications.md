@@ -55,14 +55,14 @@ Qingyun Wang, <ins>**Manling Li**</ins>, Xuan Wang, Nikolaus Parulian, Guangxing
 <ins>**Manling Li**</ins>\*, Alireza Zareian\*, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang <br>
 **ACL'20**: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp.2557–2568 <br>
 
-19\. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual KnowledgeExtraction and Hypothesis Generation System** [<a href='docs/GAIA2019.pdf'>PDF</a>] [<a href='https://tac.nist.gov/2020/SM-KBP/index.html'>Project</a>] <br>
-<ins>**Manling Li**</ins>, Ying Lin, Ananya Subburathinam, Spencer Whitehead, Xiaoman Pan, Di Lu, Qingyun Wang, Tongtao Zhang, Lifu Huang, Heng Ji. etc <br>
-**TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2019 (<span>**Rank 1st, with more than 10% higher than the second team.**</span>)<br>
+19\. **GAIA at SM-KBP 2020 - A Dockerized Multi-media Multi-lingual Knowledge Extraction, Clustering, Temporal Tracking and Hypothesis Generation System** [<a href='https://dsr.cise.ufl.edu/wp-content/uploads/2021/02/gaia_smkbp_2020.pdf'>PDF</a>] [<a href='https://tac.nist.gov/2020/KBP/SM-KBP/index.html'>Project</a>] <br>
+<ins>**Manling Li**</ins>, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Sha Li, etc %Zhenhailong Wang, Pengfei Yu, Lifu Huang, Di Lu, Qingyun Wang, Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, Brian Chen, Xudong Lin, Alireza Zareian, Amith Ananthram, Emily Allaway, Shih-Fu Chang, Kathleen McKeown, Yixiang Yao, Yifan Wang, Michael Spector, Mitchell DeHaven, Daniel Napierski, Marjorie Freedman, Pedro Szekely, Haidong Zhu, Ram Nevatia, Yang Bai, Yifan Wang, Ali Sadeghian, Haodi Ma, Daisy Zhe Wang <br>
+**TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2020 (<span>**Rank 1st in the leaderboard.**</span>)<br>
 
-18\. **A Baseline Fine-Grained Entity Extraction System for TAC-KBP2019**  [<a href='docs/UIUC_TAC_KBP2019_Fine_Grained_Entity_Extraction_System.pdf'>PDF</a>] [<a href='https://tac.nist.gov/2019/workshop/tac2019.general.html'>Project</a>] 
+18\. **UIUC TAC2020 RUFES System Description**  [<a href='https://blender.cs.illinois.edu/paper/rufesuiuc2020.pdf'>PDF</a>] [<a href='https://tac.nist.gov/2020/KBP/RUFES/index.html'>Project</a>] 
 <br>
-Ying Lin, Xiaoman Pan, <ins>**Manling Li**</ins>, Heng Ji<br>
-**TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2019 <br>
+Revanth Gangi Reddy, <ins>**Manling Li**</ins>, Haoyang Wen and Heng Ji<br>
+**TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2020 <br>
 
 ### 2019 
 <br>
@@ -81,14 +81,15 @@ Ying Lin, Xiaoman Pan, <ins>**Manling Li**</ins>, Heng Ji<br>
 Indrani Bhattacharya, Michael Foley, Ni Zhang, Tongtao Zhang, Christine Ku, Cameron Mine, <ins>**Manling Li**</ins>, Heng Ji, etc. <br>
 **ACM MMSys'19**: ACM Multimedia Systems Conference 2019, pp.249-254  <br>
 
-14\. **GAIA at SM-KBP 2020 - A Dockerized Multi-media Multi-lingual Knowledge Extraction, Clustering, Temporal Tracking and Hypothesis Generation System** [<a href='https://dsr.cise.ufl.edu/wp-content/uploads/2021/02/gaia_smkbp_2020.pdf'>PDF</a>] [<a href='https://tac.nist.gov/2020/KBP/SM-KBP/index.html'>Project</a>] <br>
-<ins>**Manling Li**</ins>, Ying Lin, Tuan Manh Lai, Xiaoman Pan, Haoyang Wen, Sha Li, etc %Zhenhailong Wang, Pengfei Yu, Lifu Huang, Di Lu, Qingyun Wang, Haoran Zhang, Qi Zeng, Chi Han, Zixuan Zhang, Yujia Qin, Xiaodan Hu, Nikolaus Parulian, Daniel Campos, Heng Ji, Brian Chen, Xudong Lin, Alireza Zareian, Amith Ananthram, Emily Allaway, Shih-Fu Chang, Kathleen McKeown, Yixiang Yao, Yifan Wang, Michael Spector, Mitchell DeHaven, Daniel Napierski, Marjorie Freedman, Pedro Szekely, Haidong Zhu, Ram Nevatia, Yang Bai, Yifan Wang, Ali Sadeghian, Haodi Ma, Daisy Zhe Wang <br>
-**TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2020 (<span>**Rank 1st in the leaderboard.**</span>)<br>
 
-13\. **UIUC TAC2020 RUFES System Description**  [<a href='https://blender.cs.illinois.edu/paper/rufesuiuc2020.pdf'>PDF</a>] [<a href='https://tac.nist.gov/2020/KBP/RUFES/index.html'>Project</a>] 
+14\. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual KnowledgeExtraction and Hypothesis Generation System** [<a href='docs/GAIA2019.pdf'>PDF</a>] [<a href='https://tac.nist.gov/2020/SM-KBP/index.html'>Project</a>] <br>
+<ins>**Manling Li**</ins>, Ying Lin, Ananya Subburathinam, Spencer Whitehead, Xiaoman Pan, Di Lu, Qingyun Wang, Tongtao Zhang, Lifu Huang, Heng Ji. etc <br>
+**TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2019 (<span>**Rank 1st, with more than 10% higher than the second team.**</span>)<br>
+
+13\. **A Baseline Fine-Grained Entity Extraction System for TAC-KBP2019**  [<a href='docs/UIUC_TAC_KBP2019_Fine_Grained_Entity_Extraction_System.pdf'>PDF</a>] [<a href='https://tac.nist.gov/2019/workshop/tac2019.general.html'>Project</a>] 
 <br>
-Revanth Gangi Reddy, <ins>**Manling Li**</ins>, Haoyang Wen and Heng Ji<br>
-**TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2020 <br>
+Ying Lin, Xiaoman Pan, <ins>**Manling Li**</ins>, Heng Ji<br>
+**TAC-KBP**: Text Analysis Conference Knowledge Base Population Workshop 2019 <br>
 
 
 ### 2018 and Before

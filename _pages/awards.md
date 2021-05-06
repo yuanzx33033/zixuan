@@ -20,6 +20,8 @@ redirect_from:
 
 ### Academic and Scientific Competitions
 
+- Ranked 1st in TAC Streaming Multimedia Knowledge Base Population (SM-KBP) 2019, with more than 10% abusolute gains compared the second ranked team
+- Ranked 1st in TAC Streaming Multimedia Knowledge Base Population (SM-KBP) 2020
 - 1st prize in <a href='http://computergames.caai.cn/'>National Computer Game Tournament</a> <br>
 - 1st prize in <a href='http://dasai.lanqiao.cn/pages/dasai/curren_item.html'>National Software Innovation Competition</a>  <br>
 - 2nd prize in <a href='http://jsjds.ruc.edu.cn/'>National Computer Design Competition</a>  <br>
