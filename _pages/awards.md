@@ -10,6 +10,7 @@ redirect_from:
 
 - ACL2020 Best Demo Paper Award <br>
 - Mavis Future Faculty Fellow <br>
+- C.L. and Jane Liu Award <br>
 
 ### Scholarships and Fellowships
 

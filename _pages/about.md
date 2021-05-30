@@ -50,4 +50,4 @@ Academic Service
 
 **Senior PC**: IJCAI'21.
 
-**PC**: ACL'21; AAAI'21; WWW'21; EACL'21; COLING'20; AACL'20; CCL'20.
+**PC**: EMNLP'21; ACL'21; AAAI'21; WWW'21; EACL'21; KDD'21 Workshop; COLING'20; AACL'20; CCL'20.
