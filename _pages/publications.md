@@ -29,7 +29,7 @@ Qi Zeng, <ins>**Manling Li**</ins>, Tuan Lai, Heng Ji, Mohit Bansal and Hanghang
 
 25\. **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation** [<a href='https://blender.cs.illinois.edu/paper/COVIDKG.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/covid19/'>Code/Data</a>]<br>
 Qingyun Wang, <ins>**Manling Li**</ins>, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, David Liem, Ahmed Elsayed, Martha Palmer, Jasmine Rah, Clare Voss, Cynthia Schneider, Boyan Onyshkevych <br>
-**NAACL'21**: System Demonstrations <br>
+**NAACL'21**: System Demonstrations <br> (<span style="color:#8C0000">**Best Demo Paper Award at NAACL2021**</span>)
 
 24\. **RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System** [<a href='https://blender.cs.illinois.edu/paper/resin-phase1.pdf'>PDF</a>] [<a href='https://github.com/RESIN-KAIROS/RESIN-pipeline-public'>Code</a>] <br>
  Haoyang Wen, Ying Lin, Tuan M. Lai, Xiaoman Pan, Sha Li, Xudong Lin, Ben Zhou, <ins>**Manling Li**</ins>, Haoyu Wang, Hongming Zhang, Xiaodong Yu, Alexander Dong, Zhenhailong Wang, Yi R. Fung, Piyush Mishra, Qing Lyu, Dídac Surís, Brian Chen, Susan W. Brown, Martha Palmer, Chris Callison-Burch, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang and Heng Ji<br>

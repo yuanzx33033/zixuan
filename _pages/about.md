@@ -37,7 +37,11 @@ Education
 
 Experience
 ------
-  * **07/2020 - 08/2020, IBM Research AI in Yorktown Heights**
+  * **05/2021 - 08/2020, Microsoft Research**
+    * Research Intern at the Cognitive Services Research group
+    * Mentor: [Ruochen Xu](https://www.microsoft.com/en-us/research/people/ruox/)
+    * Focus: Multimedia Pretrained Embedding
+  * **06/2020 - 08/2020, IBM Research**
     * Research Intern at the Foundations of AI Reasoning group
     * Mentor: [Tengfei Ma](https://sites.google.com/site/matf0123/home), [Mo Yu](https://scholar.google.com/citations?user=vC8DssQAAAAJ&hl=en)
     * Focus: Graph Compession via Optimal Transport
@@ -46,8 +50,8 @@ Experience
 Academic Service
 ------
 
-**Journal Reviewer**: IEEE MultiMedia; Neurocomputing.
+**Journal Reviewer**: IEEE MultiMedia; Journal of Artificial Intelligence Research; Neurocomputing.
 
 **Senior PC**: IJCAI'21.
 
-**PC**: EMNLP'21; ACL'21; AAAI'21; WWW'21; EACL'21; KDD'21 Workshop; COLING'20; AACL'20; CCL'20.
+**PC**: EMNLP'21; ACL'21; AAAI'21; WWW'21; EACL'21; KDD'21 DI Workshop; NLPCC 2021; COLING'20; AACL'20; CCL'20.
