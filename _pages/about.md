@@ -37,7 +37,7 @@ Education
 
 Experience
 ------
-  * **05/2021 - 08/2020, Microsoft Research**
+  * **05/2021 - 08/2021, Microsoft Research**
     * Research Intern at the Cognitive Services Research group
     * Mentor: [Ruochen Xu](https://www.microsoft.com/en-us/research/people/ruox/)
     * Focus: Multimedia Pretrained Embedding
