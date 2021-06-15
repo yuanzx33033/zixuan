@@ -29,7 +29,8 @@ Qi Zeng, <ins>**Manling Li**</ins>, Tuan Lai, Heng Ji, Mohit Bansal and Hanghang
 
 25\. **COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation** [<a href='https://blender.cs.illinois.edu/paper/COVIDKG.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/covid19/'>Code/Data</a>]<br>
 Qingyun Wang, <ins>**Manling Li**</ins>, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, David Liem, Ahmed Elsayed, Martha Palmer, Jasmine Rah, Clare Voss, Cynthia Schneider, Boyan Onyshkevych <br>
-**NAACL'21**: System Demonstrations <br> (<span style="color:#8C0000">**Best Demo Paper Award at NAACL2021**</span>)
+**NAACL'21**: System Demonstrations <br> 
+(<span style="color:#8C0000">**Best Demo Paper Award at NAACL2021**</span>)<br>
 
 24\. **RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System** [<a href='https://blender.cs.illinois.edu/paper/resin-phase1.pdf'>PDF</a>] [<a href='https://github.com/RESIN-KAIROS/RESIN-pipeline-public'>Code</a>] <br>
  Haoyang Wen, Ying Lin, Tuan M. Lai, Xiaoman Pan, Sha Li, Xudong Lin, Ben Zhou, <ins>**Manling Li**</ins>, Haoyu Wang, Hongming Zhang, Xiaodong Yu, Alexander Dong, Zhenhailong Wang, Yi R. Fung, Piyush Mishra, Qing Lyu, Dídac Surís, Brian Chen, Susan W. Brown, Martha Palmer, Chris Callison-Burch, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang and Heng Ji<br>
@@ -49,7 +50,8 @@ Qingyun Wang, <ins>**Manling Li**</ins>, Xuan Wang, Nikolaus Parulian, Guangxing
 
 21\. **GAIA: A Fine-grained Multimedia Knowledge Extraction System** [<a href='https://blender.cs.illinois.edu/paper/aidaacl2020demo.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/software/gaia-ie'>Code</a>] [<a href='http://blender.cs.illinois.edu/software/gaia-ie/gaia.mp4'>Video</a>]<br>
 <ins>**Manling Li**</ins>\*, Alireza Zareian\*, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare R. Voss,  Dan Napierski, Marjorie Freedman <br>
-**ACL'20**: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations. pp. 77–86 (<span style="color:#8C0000">**Best Demo Paper Award at ACL2020**</span>) <br>
+**ACL'20**: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations. pp. 77–86 <br>
+(<span style="color:#8C0000">**Best Demo Paper Award at ACL2020**</span>) <br>
 
 20\. **Cross-media Structured Common Space for Multimedia Event Extraction** [<a href='https://blender.cs.illinois.edu/paper/multimediaspace2020.pdf'>PDF</a>] [<a href='http://blender.cs.illinois.edu/software/m2e2'>Code</a>] [<a href='docs/ACL20-m2e2_presentation.pdf'>Slides</a>]<br>
 <ins>**Manling Li**</ins>\*, Alireza Zareian\*, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang <br>
