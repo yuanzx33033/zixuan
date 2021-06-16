@@ -19,7 +19,7 @@ News
 ------
 * [2021-08] Will do a tutorial at ACL 2021 about Event-centric Natural Language Understanding with [Muhao](https://muhaochen.github.io/), [Qiang](https://www.qiangning.info/), [Hongming](https://www.cse.ust.hk/~hzhangal/), [Heng](http://blender.cs.illinois.edu/hengji.html), [Kathy](http://www.cs.columbia.edu/~kathy/) and [Dan](https://www.cis.upenn.edu/~danroth/).
 * [2021-06] Our [COVID-KG](https://blender.cs.illinois.edu/paper/COVIDKG.pdf) was awarded as Best Demo Paper at NAACL 2021.
-* [2021-06] Our work of knowledge extraction and reasoning has been reported by UIUC News [Manling Li Produces Award-winning Event Schema Research with Advisor and Mentor Heng Ji](https://cs.illinois.edu/news/manling-li-produces-award-winning-event-schema-research-with-advisor-and-mentor-heng-ji).
+* [2021-06] Our work of knowledge extraction and reasoning has been reported by the department [Manling Li Produces Award-winning Event Schema Research with Advisor and Mentor Heng Ji](https://cs.illinois.edu/news/manling-li-produces-award-winning-event-schema-research-with-advisor-and-mentor-heng-ji).
 * [2021-05] Awarded [C.L. and Jane Liu Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cl-and-jane-w-s-liu-award) for showing exceptional research promise.
 * [2021-04] Selected as [Mavis Future Faculty Fellow](https://publish.illinois.edu/engr-mavis/). 
 * [2021-02] Did a tutorial at AAAI 2021 about Event-centric Natural Language Understanding with [Muhao](https://muhaochen.github.io/), [Qiang](https://www.qiangning.info/), [Hongming](https://www.cse.ust.hk/~hzhangal/), [Heng](http://blender.cs.illinois.edu/hengji.html) and [Dan](https://www.cis.upenn.edu/~danroth/).
