@@ -15,9 +15,17 @@ redirect_from:
 ### 2021
 <br>
 
-28\. **Future is not One-dimensional: Complex Event Schema Induction via Graph Modeling** [<a href='https://blender.cs.illinois.edu/paper/schema2021a.pdf'>PDF</a>] [<a href='https://github.com/limanling/temporal-graph-schema'>Data</a>] <br>
+28\. **The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Prediction** [<a href='https://blender.cs.illinois.edu/paper/schema2021a.pdf'>PDF</a>] [<a href='https://github.com/limanling/temporal-graph-schema'>Data</a>] <br>
 <ins>**Manling Li**</ins>, Sha Li, Zhenhailong Wang, Lifu Huang, Kyunghyun Cho, Heng Ji, Jiawei Han and Clare Voss<br>
-arxiv2104.06344  <br>
+EMNLP'21  <br>
+
+28\. **Timeline Summarization based on Event Graph Compression via Time-Aware Optimal Transport** [<a href=''>PDF</a>] [<a href=''>Data</a>] <br>
+<ins>**Manling Li**</ins>, Tengfei Ma, Mo Yu, Lingfei Wu, Tian Gao, Heng Ji and Kathleen McKeown<br>
+EMNLP'21  <br>
+
+28\. **Joint Multimedia Event Extraction from Video and Article** [<a href=''>PDF</a>] [<a href=''>Data</a>] <br>
+Brian Chen, Xudong Lin, Christopher Thomas, <ins>**Manling Li**</ins>, Shoya Yoshida, Lovish Chum, Heng Ji and Shih-Fu Chang<br>
+EMNLP'21 Findings  <br>
 
 27\. **Event-centric Natural Language Processing** [<a href='https://blender.cs.illinois.edu/paper/eventtutorial2021.pdf'>PDF</a>] [<a href='https://blender.cs.illinois.edu/paper/aaai_tutorial_2021_event_centric_nlu.pdf'>Slides</a>] <br>
  Muhao Chen, Hongming Zhang, Qiang Ning, <ins>**Manling Li**</ins>, Heng Ji, Kathleen McKeown and Dan Roth<br>
