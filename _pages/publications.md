@@ -15,11 +15,11 @@ redirect_from:
 ### 2021
 <br>
 
-28\. **The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Prediction** [<a href='https://blender.cs.illinois.edu/paper/schema2021a.pdf'>PDF</a>] [<a href='https://github.com/limanling/temporal-graph-schema'>Data</a>] <br>
+30\. **The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Prediction** [<a href='https://blender.cs.illinois.edu/paper/schema2021a.pdf'>PDF</a>] [<a href='https://github.com/limanling/temporal-graph-schema'>Data</a>] <br>
 <ins>**Manling Li**</ins>, Sha Li, Zhenhailong Wang, Lifu Huang, Kyunghyun Cho, Heng Ji, Jiawei Han and Clare Voss<br>
 **EMNLP'21**  <br>
 
-28\. **Timeline Summarization based on Event Graph Compression via Time-Aware Optimal Transport** [<a href=''>PDF</a>] [<a href=''>Data</a>] <br>
+29\. **Timeline Summarization based on Event Graph Compression via Time-Aware Optimal Transport** [<a href=''>PDF</a>] [<a href=''>Data</a>] <br>
 <ins>**Manling Li**</ins>, Tengfei Ma, Mo Yu, Lingfei Wu, Tian Gao, Heng Ji and Kathleen McKeown<br>
 **EMNLP'21**  <br>
 
