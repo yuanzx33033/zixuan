@@ -9,11 +9,11 @@ redirect_from:
 
 <!-- ### 2020 -->
 
+- **Comprehensive Event Understanding in Multimedia Data** <br>
+USC ISI. Dec 2022.
+
 - **Structural Event Knowledge Acquisition from Multimedia Data** <br>
 UIUC NLP Seminar. Nov 2022.
-
-- **Comprehensive Event Understanding in Multimedia Data** <br>
-USC ISI. Nov 2022.
 
 - **Event Extraction and Reasoning in Multimedia News Data** <br>
 Microsoft Research. Nov 2022.
