@@ -15,6 +15,7 @@ redirect_from:
 
 ### Scholarships and Fellowships
 
+- Microsoft Research PhD Fellowship  <br>
 - National Scholarship <br>
 <!-- - Chinese Academy of Sciences Scholarship (First-Class) <br>  -->
 <!-- - Schlumberger Scholarship <br> -->

@@ -17,6 +17,7 @@ My research interests lie in the general area of Natural Language Processing, wi
 
 News
 ------
+* [2021-10] I am thrilled to receive Microsoft Research PhD Fellowship! Thank you Microsoft! 
 * [2021-08] Did a tutorial at ACL 2021 about [Event-centric Natural Language Processing](https://cogcomp.seas.upenn.edu/page/tutorial.202108/) with [Muhao](https://muhaochen.github.io/), [Qiang](https://www.qiangning.info/), [Hongming](https://www.cse.ust.hk/~hzhangal/), [Heng](http://blender.cs.illinois.edu/hengji.html), [Kathy](http://www.cs.columbia.edu/~kathy) and [Dan](https://www.cis.upenn.edu/~danroth). 
 * [2021-06] Our [COVID-KG](https://blender.cs.illinois.edu/paper/COVIDKG.pdf) was awarded as [Best Demo Paper at NAACL 2021](https://2021.naacl.org/blog/best-demo-award/).
 * [2021-06] Our work of knowledge extraction and reasoning has been reported by the department [Manling Li Produces Award-winning Event Schema Research with Advisor and Mentor Heng Ji](https://cs.illinois.edu/news/manling-li-produces-award-winning-event-schema-research-with-advisor-and-mentor-heng-ji).
@@ -54,7 +55,7 @@ Experience
   * **05/2021 - 08/2021, Microsoft Research**
     * Research Intern at the Cognitive Services Research group
     * Mentor: [Ruochen Xu](https://www.microsoft.com/en-us/research/people/ruox/)
-    * Focus: Multimedia Pretrained Embedding
+    * Focus: Vision-Language Pretraining with Event Knowledge
   * **06/2020 - 08/2020, IBM Research**
     * Research Intern at the Foundations of AI Reasoning group
     * Mentor: [Tengfei Ma](https://sites.google.com/site/matf0123/home), [Mo Yu](https://scholar.google.com/citations?user=vC8DssQAAAAJ&hl=en)
@@ -68,4 +69,4 @@ Academic Service
 
 **Senior PC**: IJCAI'21.
 
-**PC**: AAAI'22; WWW'22; EMNLP'21; ACL'21; AAAI'21; WWW'21; EACL'21; KDD'21 DI Workshop; NLPCC 2021; COLING'20; AACL'20; CCL'20.
+**PC**: ACL Rolling Reviewer'22; AAAI'22; WWW'22; EMNLP'21; ACL'21; AAAI'21; WWW'21; EACL'21; KDD'21 DI Workshop; NLPCC 2021; COLING'20; AACL'20; CCL'20.
