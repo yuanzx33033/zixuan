@@ -12,6 +12,13 @@ redirect_from:
 
 ## Papers (* equal contribution)
 
+### 2022
+<br>
+
+31\. **MuMuQA: Multimedia Multi-Hop News Question Answering via Cross-Media Knowledge Extraction and Grounding** [<a href=''>PDF</a>] [<a href=''>Data</a>] <br>
+Revanth Gangi Reddy, Xilin Rui, <ins>**Manling Li**</ins>, Xudong Lin, Haoyang Wen, Jaemin Cho, Lifu Huang, Mohit Bansal, Avi Sil, Shih-Fu Chang, Alexander Schwing, Heng Ji<br>
+**AAAI'22**  <br>
+
 ### 2021
 <br>
 
