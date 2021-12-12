@@ -54,11 +54,11 @@ Education
 
 Experience
 ------
-  * **05/2021 - 08/2021, Microsoft Research**
+  * **05/2021 - 08/2021, Microsoft Research Redmond**
     * Research Intern at the Cognitive Services Research group
     * Mentor: [Ruochen Xu](https://www.microsoft.com/en-us/research/people/ruox/). I am happy to work with [Shuohang Wang](https://sites.google.com/site/shuohangsite/), [Luowei Zhou](https://luoweizhou.github.io/), [Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/). 
     * Focus: Vision-Language Pretraining with Event Knowledge
-  * **06/2020 - 08/2020, IBM Research**
+  * **06/2020 - 08/2020, IBM T.J. Watson Research Center**
     * Research Intern at the Foundations of AI Reasoning group
     * Mentor: [Tengfei Ma](https://sites.google.com/site/matf0123/home), [Mo Yu](https://scholar.google.com/citations?user=vC8DssQAAAAJ&hl=en). I am happy to work with [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/) and [Tian Gao](https://researcher.watson.ibm.com/researcher/view.php?person=us-tgao).
     * Focus: Graph Compession via Optimal Transport
@@ -67,8 +67,26 @@ Experience
 Academic Service
 ------
 
-**Journal Reviewer**: IEEE MultiMedia; Journal of Artificial Intelligence Research; Journal of Advances in Information Technology; Neurocomputing.
+**Senior Program Committee**: 
+  * International Joint Conference on Artificial Intelligence (IJCAI), 2021
 
-**Senior Program Committee**: IJCAI'21.
+**Program Committee**: 
+  * Association for Computational Linguistics (ACL) Rolling Review, 2021
+  * Annual Meeting of the Association for Computational Linguistics (ACL), 2021
+  * Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021
+  * Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT), 2021
+  * AAAI Conference on Artificial Intelligence (AAAI), 2021-2022
+  * The Web Conference (WWW), 2021-2022
+  * Conference on Automated Knowledge Base Construction (AKBC), 2021
+  * Conference of the European Chapter
+of the Association for Computational Linguistics (EACL), 2021
+  * Document Intelligence workshop at ACM SIGKDD Conference (KDD DI Workshop), 2021
+  * International Conference on Natural Language Processing and Chinese Computing (NLPCC) 2021
+  * International Conference on Computational Linguistics (COLING), 2020
+  * Conference on Asia-Pacific Chapter of the Association for Computational Linguistics (AACL), 2020
+  * China National Conference on Computational Linguistics (CCL), 2020
 
-**Program Committee**: ACL Rolling Reviewer'22; AAAI'22; WWW'22; EMNLP'21; ACL'21; AAAI'21; WWW'21; EACL'21; KDD'21 DI Workshop; NLPCC 2021; COLING'20; AACL'20; CCL'20.
+**Journal Reviewer**: 
+  * IEEE MultiMedia
+  * Journal of Artificial Intelligence Research
+  * Journal of Advances in Information Technology
