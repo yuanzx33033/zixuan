@@ -18,3 +18,6 @@ Education
 * M.S. in Information Technology. 2015-2017.
   * Rutgers, The State University of New Jersey.
   * Advisor: Prof. Hui Xiong
+
+* B.S. in Economics. 2011-2015.
+  * Tongji University
