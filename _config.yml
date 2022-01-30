@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Zixuan Yuan"
-  avatar           : "zixuan_yuan.jpg"
+  avatar           : "image/zixuan_yuan.jpg"
   bio              : "Ph.D. Candidate at Rutgers (zy101@rutgers.edu)"
-  location         : "Champaign, Illinois"
+  location         : "New Brunswich, NJ"
   employer         :  
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6U4SXnUAAAAJ&hl=en"
-  email            : "manling2@illinois.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=lxrXMY0AAAAJ&hl=en&oi=ao"
+  email            : "zy101@rutgers.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "limanling"
+  github           : "zixuanyuan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/manling-li-cs"
+  linkedin         : "https://www.linkedin.com/in/zixuan-yuan-a00916109/"
   orcid            : 
   pinterest        :
   soundcloud       :
