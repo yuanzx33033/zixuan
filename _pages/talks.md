@@ -1,10 +1,10 @@
----
+<!-- ---
 permalink: /talks/
 title: "Invited Talks"
 author_profile: true
 redirect_from: 
   - /talks.html
----
+--- -->
 
 
 - **Structural Event Knowledge Acquisition from Multimedia Data** <br>
