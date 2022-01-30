@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manling Li"
+title                    : "Zixuan Yuan"
 title_separator          : "-"
-name                     : &name "Manling Li"
-description              : &description "CS Ph.D. Candidate at UIUC"
+name                     : &name "Zixuan Yuan"
+description              : &description "Ph.D. Candidate at Rutgers"
 url                      : https://limanling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yuanzx33033/zixuan"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Manling Li"
-  avatar           : "manlingli_small.png"
-  bio              : "CS Ph.D. Candidate at UIUC (manling2@illinois.edu)"
+  name             : "Zixuan Yuan"
+  avatar           : "zixuan_yuan.jpg"
+  bio              : "Ph.D. Candidate at Rutgers (zy101@rutgers.edu)"
   location         : "Champaign, Illinois"
   employer         :  
   pubmed           : 
