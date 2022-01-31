@@ -15,7 +15,7 @@ redirect_from:
 2022
 ---------
 **1. Learning to Walk with Dual Agents for Knowledge Graph Reasoning** [<a href='https://arxiv.org/abs/2112.12876'>PDF</a>] <br>
-Denghui Zhang\*, <ins>**Yuan, Zixuan\*</ins>, Hao Liu, Xiaodong Lin, and Hui Xiong.  In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
+Denghui Zhang\*, <ins>**Yuan, Zixuan**\*</ins>, Hao Liu, Xiaodong Lin, and Hui Xiong.  In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
 
 2021
 ---------
@@ -24,7 +24,7 @@ Denghui Zhang\*, <ins>**Yuan, Zixuan\*</ins>, Hao Liu, Xiaodong Lin, and Hui Xio
 
 
 **3. Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href='https://dl.acm.org/doi/abs/10.1145/3447548.3467215?casa_token=vVhtjEfms0MAAAAA:zR_x1a4Ccil2l-296TCSdd0YqVFNV09bzXJlq_2ZSdOgKknefyq80ZXZqClpbzuP5rY6wgITpoQt'>PDF</a>] <br>
-Denghui Zhang, <ins>**Yuan, Zixuan**</ins>, Yanchi Liu, Hao Liu, Zuohui Fu, Fuzhen Zhuang, Hui Xiong, and Haifeng Chen. The 27rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2021) (Research Track)
+Denghui Zhang, <ins>**Zixuan Yuan**</ins>, Yanchi Liu, Hao Liu, Zuohui Fu, Fuzhen Zhuang, Hui Xiong, and Haifeng Chen. The 27rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2021) (Research Track)
 
 **4. Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups** [<a href='https://dl.acm.org/doi/abs/10.1145/3447548.3467383?casa_token=sckoE4LzrGMAAAAA:A9lF2JzD_0vp-mMo2ela7PRHKB96ueUUwynBY8iUawoMmxlVcUBWCtVYdwWqiNiFtuqBqXeVRwpD'>PDF</a>] <br>
 Shengming Zhang, Hao Zhong, <ins>**Zixuan Yuan**</ins>, and Hui Xiong. The 27rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2021) (Research Track)
