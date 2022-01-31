@@ -15,7 +15,7 @@ redirect_from:
 2022
 ---------
 **1. Learning to Walk with Dual Agents for Knowledge Graph Reasoning** [<a href='https://arxiv.org/abs/2112.12876'>PDF</a>] <br>
-Denghui Zhang\*, <ins>**Yuan, Zixuan**\*</ins>, Hao Liu, Xiaodong Lin, and Hui Xiong.  In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
+Denghui Zhang\*, <ins>**Zixuan Yuan**\*</ins>, Hao Liu, Xiaodong Lin, and Hui Xiong.  In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
 
 2021
 ---------
@@ -37,4 +37,4 @@ Shengming Zhang, Hao Zhong, <ins>**Zixuan Yuan**</ins>, and Hui Xiong. The 27rd 
 2020
 ---------
 **5. Spatio-Temporal Dual Graph Attention Network for Query-POI Matching** [<a href='https://www.researchgate.net/publication/342215590_Spatio-Temporal_Dual_Graph_Attention_Network_for_Query-POI_Matching'>PDF</a>] <br>
-<ins>**Yuan, Zixuan**\*</ins>, Hao Liu\*, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu, and Hui Xiong. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 629-638. 2020.
+<ins>**Zixuan Yuan**\*</ins>, Hao Liu\*, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu, and Hui Xiong. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 629-638. 2020.
