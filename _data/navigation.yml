@@ -5,14 +5,14 @@ main:
 
 #  - title: "Projects"
 #    url: /projects/
-  - title: "Talks"
-    url: /talks/
+#   - title: "Talks"
+#     url: /talks/
 
-  - title: "Awards"
-    url: /awards/
+#   - title: "Awards"
+#     url: /awards/
 
   - title: "CV"
-    url: /files/cv_limanling.pdf
+    url: /files/cv_zixuan.pdf
 
 
   # - title: "Teaching"
