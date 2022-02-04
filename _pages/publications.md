@@ -11,13 +11,12 @@ redirect_from:
 
 ## Preprints
 ----------
-**1. E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-Commerce**
+**1. E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-Commerce** [<a href='https://arxiv.org/abs/2009.02835'>PDF</a>] <br>
 Denghui Zhang,  <ins>**Zixuan Yuan**</ins>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong.
-[<a href='https://arxiv.org/abs/2009.02835'>PDF</a>] <br>
 
-**2. Multi-Domain Transformer-Based Counterfactual Augmentation for Earnings Call Analysis**
+
+**2. Multi-Domain Transformer-Based Counterfactual Augmentation for Earnings Call Analysis** [<a href='https://arxiv.org/abs/2112.00963'>PDF</a>] <br>
 <ins>**Zixuan Yuan**</ins>, Yada Zhu, Wei Zhang, Ziming Huang, Guangnan Ye, Hui Xiong.
-[<a href='https://arxiv.org/abs/2112.00963'>PDF</a>] <br>
 
 ## Papers (* equal contribution)
 
