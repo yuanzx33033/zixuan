@@ -24,13 +24,13 @@ Denghui Zhang,  <ins>**Zixuan Yuan**</ins>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang
 ---------
 
 **3. AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** 
-<ins>Zixuan Yuan\*</ins>, Denghui Zhang\*, Hao Zhong, Shengming Zhang, Hui Xiong. INFORMS Workshop on Data Science 2022.
+<ins>**Zixuan Yuan**\*</ins>, Denghui Zhang\*, Hao Zhong, Shengming Zhang, Hui Xiong. INFORMS Workshop on Data Science 2022.
 
 **4. Learning to Walk with Dual Agents for Knowledge Graph Reasoning** [<a href='https://arxiv.org/abs/2112.12876'>PDF</a>] <br>
 Denghui Zhang\*, <ins>**Zixuan Yuan**\*</ins>, Hao Liu, Xiaodong Lin, and Hui Xiong.  In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
 
 **5. Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning**
-Denghui Zhang, Yanchi Liu, <ins>Zixuan Yuan</ins>, Yanjie Fu, Haifeng Chen, Hui Xiong. IEEE Transactions on Knowledge and Data Engineering (TKDE 2022).
+Denghui Zhang, Yanchi Liu, <ins>**Zixuan Yuan**</ins>, Yanjie Fu, Haifeng Chen, Hui Xiong. IEEE Transactions on Knowledge and Data Engineering (TKDE 2022).
 
 
 
