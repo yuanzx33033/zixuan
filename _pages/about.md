@@ -7,10 +7,17 @@
    - /about.html
 ---
 
-I am a Ph.D. student in Rutgers Data Mining and Business Analytics, working with my advisor [Prof. Hui Xiong](http://datamining.rutgers.edu/). My research interests lie in the general area of urban computing and financial applications, particularly in spatiotemporal analysis, meta learning, self-supervised learning, knowledge graphs, and probabilistic graphical models, as well as their applications in POI recommendation, quantitative trading, event-driven investing, and knowledge graph reasoning.
+I am a fifth-year Ph.D. student in Rutgers Data Mining and Business Analytics, working with my advisor [Prof. Hui Xiong](http://datamining.rutgers.edu/). My research interests lie in the general area of urban computing and financial applications, particularly in spatiotemporal analysis, meta learning, self-supervised learning, knowledge graphs, and probabilistic graphical models, as well as their applications in POI recommendation, quantitative trading, event-driven investing, and knowledge graph reasoning. He has research experience in industry research labs, such as IBM Research, Baidu Research, and RavenPack. He has published in refereed journals and conference proceedings, such as IEEE TKDE, IEEE IOTJ, ACM SIGKDD, SIGIR, WWW, and AAAI.
+
+Currently, I am on job market for faculty positions. Warmly welcome any recommendations or suggestions!
+
+
 
 News
 ======
+* 08/2022: Invited as a PC member for AAAI'23.
+* 08/2022: One paper on product representation learning got accepted to IEEE TKDE.
+* 04/2022: Will serve as a session chair at INFORMS 2022. 
 * 12/2021: One paper on KG reasoning got accepted to AAAI’22 (15% acceptance rate). 
 * 05/2021: Two papers got accepted to KDD’21. 
 * 03/2021: Passed my dissertation proposal defense, pleased to be Ph.D. candidate now! 
