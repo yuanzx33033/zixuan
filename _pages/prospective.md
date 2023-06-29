@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-## Regular Ph.D. Admission*
+## Regular Ph.D. Admission
 ======
 
 Eligible Candidates: Undergraduate or Master students
@@ -19,8 +19,8 @@ Enrollment: 2024 Academic Year
 Funding: HKUST Ph.D. Scholarship or Assistantship
 
 Application Deadline:
-* 1st batch, Oct. 28, 2023
-* 2nd batch, February 28, 2024
+-- 1st batch, Oct. 28, 2023
+-- 2nd batch, February 28, 2024
 
 
 
@@ -29,7 +29,7 @@ Application Deadline:
 
 
 
-## Research Assistant or Intern*
+## Research Assistant or Intern
 ======
 
 For HKUST (GZ) students: feel free to drop me an email or stop by my office.
@@ -43,7 +43,7 @@ For other students: please attach your CV to your email, and demonstrate clearly
 
 
 
-## Ph.D. Student Requirements*
+## Ph.D. Student Requirements
 ======
 
 1. With a bachelor's or master's degree in Computer Science, Mathematics, Statistics, Finance, or other related disciplines.
