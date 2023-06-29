@@ -1,6 +1,6 @@
 ---
 title: "Prospective Students"
-excerpt: "HKUST(GZ) Ph.D./MPhil. and other research positions"
+excerpt: "HKUST(GZ) Ph.D. and other research positions"
 collection: portfolio
 ---
 
