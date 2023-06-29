@@ -9,9 +9,7 @@
 
 I am a fifth-year Ph.D. candidate in Rutgers Data Mining and Business Analytics, working with my advisor [Prof. Hui Xiong](http://datamining.rutgers.edu/). My research interests lie in the general area of urban computing and financial applications, particularly in spatiotemporal analysis, meta learning, self-supervised learning, knowledge graphs, and probabilistic graphical models, as well as their applications in POI recommendation, quantitative trading, event-driven investing, and knowledge graph reasoning. He has research experience in industry research labs, such as IBM Research, Baidu Research, and RavenPack. He has published in refereed journals and conference proceedings, such as IEEE TKDE, IEEE IOTJ, ACM SIGKDD, SIGIR, WWW, and AAAI.
 
-<span style="color:red">**Multiple positions are available for self-motivated Ph.D. students, Postdocs, and RAs. Visiting students are also welcome. Check [here](https://yuanzx33033.github.io/portfolio/prospective_students/) for more information.
-
-**</span>
+<span style="color:red">**Multiple positions are available for self-motivated Ph.D. students, Postdocs, and RAs. Visiting students are also welcome. Check [here](https://yuanzx33033.github.io/portfolio/prospective_students/) for more information.**</span>
 
 News
 ======
