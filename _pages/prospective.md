@@ -22,8 +22,6 @@ Application Deadline:
 -- 1st batch, Oct. 28, 2023
 -- 2nd batch, February 28, 2024
 
-\n
-
 
 
 
@@ -37,7 +35,6 @@ For HKUST (GZ) students: feel free to drop me an email or stop by my office.
 For other students: please attach your CV to your email, and demonstrate clearly your research interests & how you can collaborate with me.
 
 
-\n
 
 
 
