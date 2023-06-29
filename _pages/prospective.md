@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-#Regular Ph.D. Admission
+*Regular Ph.D. Admission*
 ======
 
 Eligible Candidates: Undergraduate or Master students
@@ -29,7 +29,7 @@ DDL:
 
 
 
-#Research Assistant or Intern
+*Research Assistant or Intern*
 ======
 
 For HKUST (GZ) students: feel free to drop me an email or stop by my office.
