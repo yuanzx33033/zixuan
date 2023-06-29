@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## Regular Ph.D. Admission
-======
+----------
 
 Eligible Candidates: Undergraduate or Master students
 
@@ -30,7 +30,7 @@ Application Deadline:
 
 
 ## Research Assistant or Intern
-======
+----------
 
 For HKUST (GZ) students: feel free to drop me an email or stop by my office.
 
@@ -44,7 +44,7 @@ For other students: please attach your CV to your email, and demonstrate clearly
 
 
 ## Ph.D. Student Requirements
-======
+----------
 
 1. With a bachelor's or master's degree in Computer Science, Mathematics, Statistics, Finance, or other related disciplines.
 2. Have a strong passion for academic research, a thirst for knowledge, curiosity, and enjoyment of the investigative process.
