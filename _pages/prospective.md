@@ -16,7 +16,7 @@ Eligible Candidates: Undergraduate or Master students
 
 Enrollment: 2024 Academic Year
 
-Funding: HKUST (GZ) Ph.D. Scholarship or Assistantship (around 15K RMB per month)
+Funding: HKUST Ph.D. Scholarship or Assistantship (around 15K RMB per month)
 
 Application Deadline:
 -- 1st batch, Oct. 28, 2023
@@ -30,7 +30,7 @@ Application Deadline:
 ## Research Assistant or Intern
 ----------
 
-For HKUST (GZ) students: feel free to drop me an email or stop by my office.
+For HKUST students: feel free to drop me an email or stop by my office.
 
 For other students: please attach your CV to your email, and demonstrate clearly your research interests & how you can collaborate with me.
 
