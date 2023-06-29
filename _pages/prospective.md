@@ -16,7 +16,7 @@ Eligible Candidates: Undergraduate or Master students
 
 Enrollment: 2024 Academic Year
 
-Funding: HKUST Ph.D. Scholarship or Assistantship
+Funding: HKUST (GZ) Ph.D. Scholarship or Assistantship
 
 Application Deadline:
 -- 1st batch, Oct. 28, 2023
