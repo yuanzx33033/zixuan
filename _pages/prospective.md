@@ -1,8 +1,13 @@
 ---
+permalink: /prospective/
 title: "Prospective Students"
-excerpt: "HKUST(GZ) Ph.D. and other research positions"
-collection: portfolio
+author_profile: true
+redirect_from: 
+  - /prospective.html
 ---
+
+
+
 
 **Regular Ph.D. Admission**
 ======
