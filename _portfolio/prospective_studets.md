@@ -12,9 +12,9 @@ Enrollment: 2024 Academic Year
 
 Funding: HKUST Ph.D. Scholarship or Assistantship
 
-DDL: 1st batch, Oct. 28, 2023
-
-             2nd batch, February 28, 2023
+DDL: 
+  * 1st batch, Oct. 28, 2023
+  * 2nd batch, February 28, 2024
 
 
 **Research Assistant or Intern**
