@@ -13,6 +13,7 @@ I am a fifth-year Ph.D. candidate in Rutgers Data Mining and Business Analytics,
 
 News
 ======
+* 06/2023: Will join HKUST as an assistant professor in FinTech Thrust.
 * 08/2022: Invited as a PC member for AAAI'23.
 * 08/2022: One paper on product representation learning got accepted to IEEE TKDE.
 * 04/2022: Will serve as a session chair at INFORMS 2022. 
