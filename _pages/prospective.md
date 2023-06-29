@@ -43,7 +43,7 @@ For other students: please attach your CV to your email, and demonstrate clearly
 
 
 
-#Ph.D. Student Requirements:
+*Ph.D. Student Requirements*
 ======
 
 1. With a bachelor's or master's degree in Computer Science, Mathematics, Statistics, Finance, or other related disciplines.
