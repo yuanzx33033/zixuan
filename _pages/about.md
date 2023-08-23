@@ -13,7 +13,7 @@ Zixuan Yuan is an Assistant Professor at the FinTech Thrust, HKUST (Guangzhou). 
 
 News
 ======
-* 08/2022: Invited as a PC member for AAAI'24.
+* 08/2023: Invited as a PC member for AAAI'24.
 * <span style="color:blue"> 08/2023: Joined HKUST as an assistant professor in FinTech Thrust.</span>
 * 08/2022: Invited as a PC member for AAAI'23.
 * 08/2022: One paper on product representation learning got accepted to IEEE TKDE.
