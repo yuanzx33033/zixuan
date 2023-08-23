@@ -13,16 +13,17 @@ Zixuan Yuan is an Assistant Professor at the FinTech Thrust, HKUST (Guangzhou). 
 
 News
 ======
-* <span style="color:blue"> 08/2023: Will join HKUST as an assistant professor in FinTech Thrust.</span>
+* 08/2022: Invited as a PC member for AAAI'24.
+* <span style="color:blue"> 08/2023: Joined HKUST as an assistant professor in FinTech Thrust.</span>
 * 08/2022: Invited as a PC member for AAAI'23.
 * 08/2022: One paper on product representation learning got accepted to IEEE TKDE.
-* 04/2022: Will serve as a session chair at INFORMS 2022. 
+* 04/2022: Served as a session chair at INFORMS 2022. 
 * 12/2021: One paper on KG reasoning got accepted to AAAI’22 (15% acceptance rate). 
 * 05/2021: Two papers got accepted to KDD’21. 
 * 03/2021: Passed my dissertation proposal defense, pleased to be Ph.D. candidate now! 
-* 06/2021: Will join IBM Watson Research Lab as a research intern. 
+* 06/2021: Joined IBM Watson Research Lab as a research intern. 
 * 01/2021: One paper accepted to WWW’21. 
-* 12/2020: Will join RavenPack as a data scientist intern. 
+* 12/2020: Joined RavenPack as a data scientist intern. 
 * 12/2020: One paper accepted to AAAI’21. 
 * 04/2020: One paper accepted to SIGIR'21. 
 
