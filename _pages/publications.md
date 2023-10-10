@@ -15,10 +15,14 @@ redirect_from:
 Denghui Zhang,  <ins>**Zixuan Yuan**</ins>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong.
 
 
-**2. Multi-Domain Transformer-Based Counterfactual Augmentation for Earnings Call Analysis** [<a href='https://arxiv.org/abs/2112.00963'>PDF</a>] <br>
-<ins>**Zixuan Yuan**</ins>, Yada Zhu, Wei Zhang, Ziming Huang, Guangnan Ye, Hui Xiong.
-
 ## Papers (* equal contribution)
+
+2023
+---------
+
+**2. Multi-Domain Transformer-Based Counterfactual Augmentation for Earnings Call Analysis** [<a href='https://arxiv.org/abs/2112.00963'>PDF</a>] <br>
+<ins>**Zixuan Yuan**</ins>, Yada Zhu, Wei Zhang, Hui Xiong.
+The 4th ACM International Conference on AI in Finance (ICAIF'23)
 
 2022
 ---------
