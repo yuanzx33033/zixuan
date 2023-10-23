@@ -22,8 +22,7 @@ Application Deadline:
 -- 1st batch, Oct. 28, 2023
 -- 2nd batch, February 28, 2024
 
-Advisorship: 1. Advised by Dr. Zixuan Yuan
-             2. Co-advised by Dr. Zixuan Yuan and [Dr. Hui Xiong](http://datamining.rutgers.edu/)
+Advisorship: Advised by Dr. Zixuan Yuan or co-advised by Dr. Zixuan Yuan and [Dr. Hui Xiong](http://datamining.rutgers.edu/)
 
 
 
