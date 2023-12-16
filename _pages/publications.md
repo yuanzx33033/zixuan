@@ -21,7 +21,7 @@ The 38th Annual AAAI Conference on Artificial Intelligence (AAAI'24)
 
 
 **12. LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** <br>
-<ins>**Zixuan Yuan**</ins>, Yada Zhu, Wei Zhang, Hui Xiong.
+<ins>**Zixuan Yuan**</ins>, Junming Liu, Haoyi Zhou, Denghui Zhang, Hao Liu, Nengjun Zhu, Hui Xiong.
 IEEE Transactions on Knowledge and Data Engineering (TKDE 2023)
 
 
