@@ -17,7 +17,7 @@ redirect_from:
 ---------
 **13. Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification** <br>
 <ins>**Zixuan Yuan**</ins>, Hao Liu, Haoyi Zhou, Denghui Zhang, Xiao Zhang, Hao Wang, Hui Xiong.
-The 38th Annual AAAI Conference on Artificial Intelligence (AAAI'24)
+The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)
 
 
 **12. LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** <br>
@@ -27,7 +27,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE 2023)
 
 **11. Multi-Domain Transformer-Based Counterfactual Augmentation for Earnings Call Analysis** [<a href='https://arxiv.org/abs/2112.00963'>PDF</a>] <br>
 <ins>**Zixuan Yuan**</ins>, Yada Zhu, Wei Zhang, Hui Xiong.
-The 4th ACM International Conference on AI in Finance (ICAIF'23)
+The 4th ACM International Conference on AI in Finance (ICAIF 2023)
 
 2022
 ---------
