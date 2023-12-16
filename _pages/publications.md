@@ -15,12 +15,12 @@ redirect_from:
 
 2023
 ---------
-**13. Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification** 
+**13. Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification** <br>
 <ins>**Zixuan Yuan**</ins>, Hao Liu, Haoyi Zhou, Denghui Zhang, Xiao Zhang, Hao Wang, Hui Xiong.
 The 38th Annual AAAI Conference on Artificial Intelligence (AAAI'24)
 
 
-**12. LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** 
+**12. LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** <br>
 <ins>**Zixuan Yuan**</ins>, Yada Zhu, Wei Zhang, Hui Xiong.
 IEEE Transactions on Knowledge and Data Engineering (TKDE Journal)
 
@@ -32,13 +32,13 @@ The 4th ACM International Conference on AI in Finance (ICAIF'23)
 2022
 ---------
 
-**10. AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** 
+**10. AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** <br>
 <ins>**Zixuan Yuan**\*</ins>, Denghui Zhang\*, Hao Zhong, Shengming Zhang, Hui Xiong. INFORMS Workshop on Data Science 2022.
 
 **9. Learning to Walk with Dual Agents for Knowledge Graph Reasoning** [<a href='https://arxiv.org/abs/2112.12876'>PDF</a>] <br>
 Denghui Zhang\*, <ins>**Zixuan Yuan**\*</ins>, Hao Liu, Xiaodong Lin, and Hui Xiong.  In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
 
-**8. Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning**
+**8. Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <br>
 Denghui Zhang, Yanchi Liu, <ins>**Zixuan Yuan**</ins>, Yanjie Fu, Haifeng Chen, Hui Xiong. IEEE Transactions on Knowledge and Data Engineering (TKDE 2022).
 
 
